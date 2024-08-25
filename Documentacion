@@ -1,0 +1,9 @@
+Descripción
+Este proyecto es una aplicación Flask que proporciona una API para obtener una lista de nombres de personas. La API expone un endpoint que devuelve una lista de nombres en formato JSON.
+
+Uso de la API
+Ruta del Endpoint: /personas
+
+Método HTTP: GET
+
+Descripción: La ruta /personas devuelve una lista de nombres de personas en formato JSON.
